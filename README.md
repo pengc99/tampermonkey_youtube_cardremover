@@ -1,5 +1,5 @@
 # tampermonkey_youtube_cardremover
-Remove YouTube cards in videos. 
+Remove YouTube cards in videos
 
 This script uses several external scripts and resources:
 * waitForKeyElements.js (CoeJoder Fork) - https://github.com/CoeJoder/waitForKeyElements.js
