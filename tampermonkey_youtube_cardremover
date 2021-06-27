@@ -8,7 +8,7 @@
 // @include      https://www.youtube.com/*
 // @include      http://youtube.com/*
 // @include      https://youtube.com/*
-// @icon         https://www.gravatar.com/avatar/9f44f95c3c383bce0a7ccfc25071e82c
+// @icon         https://github.com/pengc99/tampermonkey_youtube_cardremover/raw/02d3efae4fe6b93b9e368a1c985c71a5e7f8bedd/icons8-no-access-30.png
 // @grant
 // ==/UserScript==
 
@@ -10983,7 +10983,6 @@ function waitForKeyElements (
 }
 
 function removeCards () {
-    console.log("!!!!!!!!!!!!!!!! Jumped into removeCards() !!!!!!!!!!!!!!!!");
     while (document.getElementsByClassName(cardElement).length != 0) {
         document.getElementsByClassName(cardElement)[0].remove();
     }
