@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         YouTube - CardRemover
-// @version      1.0
+// @version      1.
 // @description  Remove YouTube cards in videos. Contains a local static copy of jQuery v3.6.0 (https://jquery.com/) and waitForKeyElements.js (https://gist.github.com/BrockA/2625891).
 // @author       pengc99
 // @namespace    https://github.com/pengc99/tampermonkey_youtube_cardremover
@@ -10988,4 +10988,4 @@ function removeCards () {
     }
 }
 
-waitForKeyElements ("div.ytp-ce-element", removeCards);
+waitForKeyElements ("div." + cardElement, removeCards);
