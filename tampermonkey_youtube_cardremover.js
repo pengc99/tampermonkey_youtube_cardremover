@@ -15,4 +15,10 @@
 
 var cardElement = "ytp-ce-element";
 
+function removeCards () {
+    while (document.getElementsByClassName(cardElement).length != 0) {
+        document.getElementsByClassName(cardElement)[0].remove();
+    }
+}
+
 waitForKeyElements ("div." + cardElement, removeCards);
