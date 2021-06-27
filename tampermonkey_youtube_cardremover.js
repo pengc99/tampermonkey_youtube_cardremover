@@ -4,7 +4,7 @@
 // @description  Remove YouTube cards in videos
 // @author       pengc99
 // @namespace    https://github.com/pengc99/tampermonkey_youtube_cardremover
-// @require https://cdn.jsdelivr.net/gh/CoeJoder/waitForKeyElements.js@v1.2/waitForKeyElements.js
+// @require      https://cdn.jsdelivr.net/gh/CoeJoder/waitForKeyElements.js@v1.2/waitForKeyElements.js
 // @include      http://www.youtube.com/*
 // @include      https://www.youtube.com/*
 // @include      http://youtube.com/*
