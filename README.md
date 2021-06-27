@@ -6,7 +6,7 @@ If you have TamperMonkey or GreaseMonkey installed in your browser, you can clic
 This script uses several external scripts and resources:
 * TamperMonkey - https://www.tampermonkey.net/
 * waitForKeyElements.js (CoeJoder Fork) - https://github.com/CoeJoder/waitForKeyElements.js
-* No Access icon - https://icons8.com/icon/103696/no-access
+* No Access icon from icons8 - https://icons8.com/icon/103696/no-access
 
 ***
 
