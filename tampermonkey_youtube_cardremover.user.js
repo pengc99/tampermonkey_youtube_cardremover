@@ -17,6 +17,8 @@
 var cardElement = "ytp-ce-element";
 
 /**
+ * waitForKeyElements.js (CoeJoder Fork) - https://github.com/CoeJoder/waitForKeyElements.js
+ * 
  * A utility function for userscripts that detects and handles AJAXed content.
  *
  * Usage example:
