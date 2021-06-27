@@ -1,7 +1,7 @@
 # tampermonkey_youtube_cardremover
-Remove YouTube cards in videos
+Remove YouTube cards in videos.
 
-If you have TamperMonkey or GreaseMonkey installed in your browser, you can click [here](https://github.com/pengc99/tampermonkey_youtube_cardremover/raw/main/tampermonkey_youtube_cardremover.user.js) to install the script automatically
+If you have TamperMonkey or GreaseMonkey installed in your browser, you can click [here](https://github.com/pengc99/tampermonkey_youtube_cardremover/raw/main/tampermonkey_youtube_cardremover.user.js) to install the script automatically.
 
 This script uses several external scripts and resources:
 * waitForKeyElements.js (CoeJoder Fork) - https://github.com/CoeJoder/waitForKeyElements.js
