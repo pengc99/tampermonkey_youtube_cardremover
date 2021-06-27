@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         YouTube - CardRemover
-// @version      1.2
+// @version      1.3
 // @description  Remove YouTube end video cards overlay on top of videos
 // @author       pengc99
 // @namespace    https://github.com/pengc99/tampermonkey_youtube_cardremover
