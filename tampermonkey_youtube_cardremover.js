@@ -4,6 +4,7 @@
 // @description  Remove YouTube end video cards overlay on top of videos
 // @author       pengc99
 // @namespace    https://github.com/pengc99/tampermonkey_youtube_cardremover
+// @updateURL  https://raw.githubusercontent.com/pengc99/tampermonkey_youtube_cardremover/main/tampermonkey_youtube_cardremover.js
 // @downloadURL  https://raw.githubusercontent.com/pengc99/tampermonkey_youtube_cardremover/main/tampermonkey_youtube_cardremover.js
 // @require      https://cdn.jsdelivr.net/gh/CoeJoder/waitForKeyElements.js@v1.2/waitForKeyElements.js
 // @include      http://www.youtube.com/*
