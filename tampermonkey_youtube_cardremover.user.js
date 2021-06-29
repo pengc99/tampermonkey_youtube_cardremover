@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         YouTube - CardRemover
-// @version      1.31
+// @version      1.32
 // @description  Remove YouTube end video cards overlay on top of videos
 // @author       pengc99
 // @license	 GNU General Public License v3.0 https://www.gnu.org/licenses/gpl-3.0.en.html
