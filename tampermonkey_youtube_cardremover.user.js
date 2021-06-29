@@ -5,8 +5,8 @@
 // @author       pengc99
 // @license	 GNU General Public License v3.0 https://www.gnu.org/licenses/gpl-3.0.en.html
 // @namespace    https://github.com/pengc99/tampermonkey_youtube_cardremover
-// @updateURL    https://raw.githubusercontent.com/pengc99/tampermonkey_youtube_cardremover/main/tampermonkey_youtube_cardremover.js
-// @downloadURL  https://raw.githubusercontent.com/pengc99/tampermonkey_youtube_cardremover/main/tampermonkey_youtube_cardremover.js
+// @updateURL    https://raw.githubusercontent.com/pengc99/tampermonkey_youtube_cardremover/main/tampermonkey_youtube_cardremover.user.js
+// @downloadURL  https://raw.githubusercontent.com/pengc99/tampermonkey_youtube_cardremover/main/tampermonkey_youtube_cardremover.user.js
 // @include      http://www.youtube.com/*
 // @include      https://www.youtube.com/*
 // @include      http://youtube.com/*
